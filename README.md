@@ -1,2 +1,2 @@
-# useful-shell
-some shell snippets
+# tools
+some useful snippets
